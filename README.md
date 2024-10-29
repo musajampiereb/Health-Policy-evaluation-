@@ -1,6 +1,4 @@
-# MRC Data Science Program - Mathematical Modelling Projects
-
-## Trends and Seasonal Variation Analysis of Childhood Illnesses in Rwanda
+## Interrupted Time Series (ITS) Analysis in R: Trends and Seasonal Variation Analysis of Childhood Illnesses
 
 This script analyzes trends and seasonal variations in the availability and stockouts of malaria-related commodities (Coartem, Quinine Vials, and Quinine Tablets) for childhood illnesses in Rwanda from 2012 to 2016, focusing on children under five in the Integrated Management of Childhood Illnesses (IMCI) program.
 
